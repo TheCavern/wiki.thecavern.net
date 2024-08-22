@@ -3,5 +3,5 @@ sidebar_position: 1
 slug: /
 ---
 
-# The Cavern Wiki
+# Home
 TODO - Write stuff here.
