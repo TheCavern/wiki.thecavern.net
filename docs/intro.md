@@ -4,4 +4,4 @@ slug: /
 ---
 
 # Home
-TODO - Write stuff here.
+Feel free to suggest changes by clicking the "Contribute" button.
