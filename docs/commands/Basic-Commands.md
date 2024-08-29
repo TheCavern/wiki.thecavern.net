@@ -1,2 +1,2 @@
-# Basic Commands
+# Commands
 /help exists.
