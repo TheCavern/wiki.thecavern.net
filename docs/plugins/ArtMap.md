@@ -1,7 +1,9 @@
 # ArtMap
 
-<div align="center">
-  <img width="60%" src="/img/artmap-logo.png"></img>
+<div style={{margin: '0 auto', width: '60%'}}>
+
+![image](../assets/img/plugins/ArtMap/artmap-logo.png)
+
 </div>
 
 <br></br>
@@ -310,8 +312,10 @@ Here are the list of colors that you can get from the
 <sup>* csv version of the table can be accessed [here](/files/Cavern_Art_Pallatewith_tinted__shaded_colors.csv)</sup>
 
 Here's the chart of what the colors look like:
-<div align="center">
-  <img width="80%" src="/img/art-map-chart.png"></img>
+<div style={{margin: '0 auto', width: '80%'}}>
+
+![image](../assets/img/plugins/ArtMap/art-map-chart.png)
+
 </div>
 
 ## References
