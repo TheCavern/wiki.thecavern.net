@@ -309,8 +309,6 @@ Here are the list of colors that you can get from the
 |#587468|GlowLichen|1xShade|
 |#42574e|GlowLichen|2xShade|
 
-<sup>* csv version of the table can be accessed [here](/files/Cavern_Art_Pallatewith_tinted__shaded_colors.csv)</sup>
-
 Here's the chart of what the colors look like:
 <div style={{margin: '0 auto', width: '80%'}}>
 
