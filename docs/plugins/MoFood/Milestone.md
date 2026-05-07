@@ -3,7 +3,20 @@ title: Milestone
 slug: /plugins/mofood/milestone
 ---
 
+# Milestone
+Milestone is a feature that rewards the player after completing a certain number of tasked repetedly. There are three types of milestone you can get in mofood: Farming, Bonsai, and Cooking milestone. Each category have its own levels, and once you reached that level, you will get the corresponding money and noms.
+
+:::note[Milestone Menu Navigation]
+`/food` -> `Player Profile` -> `Milestone`
+:::
+
+![](../../assets/img/plugins/MoFood/milestone_menu.png)
+
+![](../../assets/img/plugins/MoFood/milestone_crop.png)
+
 ## Farming Milestone
+For each crop that you can plant in MoFood, there is a milestone for that crop. In this category, milestone are based on how many of that crop have you harvested.
+
 |Level|Count|Money|Noms|
 |-|-|-|-|
 |I|100|-|-|
@@ -20,7 +33,8 @@ slug: /plugins/mofood/milestone
 |XII|50000|36000|12000|
 |XiII|100000|39000|13000|
 
-## Bonsai Milestone
+## Tree Milestone
+For Tree Milestone, for each bonsai in MoFood, there will be a corresponding milestone tied into it. Milestone are based on how many of that bonsai you have harvested.
 |Level|Count|Money|Noms|
 |-|-|-|-|
 |I|10|500|500|
@@ -30,6 +44,11 @@ slug: /plugins/mofood/milestone
 |V|250|25000|25000|
 
 ## Cooking Milestone
+Just like the previous two, for each cooking ingredient there is, there will be a corresponding milestone tied to it. This milestone category is based on how many of that recipe that you cooked.
+
+:::warning[TO-DO - QUESTION]
+confirm if events/limited time food recipes have milestone
+:::
 |Level|Count|Money|Noms|
 |-|-|-|-|
 |I|10|-|-|
@@ -42,7 +61,3 @@ slug: /plugins/mofood/milestone
 |VIII|2500|800|80|
 |IX|5000|900|90|
 |X|10000|1000|100|
-
-:::warning[TO-DO]
-explain what it is, how it works, what you get, how to get it, and the prize increase
-:::
