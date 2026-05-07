@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcavern_wiki=self.webpackChunkcavern_wiki||[]).push([["668"],{9500(e,r,s){s.r(r),s.d(r,{default:()=>k});var a=s(4848);s(6540);var c=s(4164),n=s(4329),u=s(5678),i=s(2831),t=s(9823);function k(e){return(0,a.jsx)(n.e3,{className:(0,c.A)(u.G.wrapper.docsPages),children:(0,a.jsx)(t.A,{children:(0,i.v)(e.route.routes)})})}}}]);
