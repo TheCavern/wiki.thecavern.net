@@ -4,19 +4,22 @@ slug: /plugins/cavernitems
 description: Learn about the cavern's custom items
 keywords:
   - size-inator
-  - builders wand
+  - builder's wand
 ---
+
 # Cavern Items
 
 ## Builder's Wand
 
-The builders wand is a special item that allows the user to build out platforms and patterns of blocks and cut down time on building.
+The builder's wand is a special item that allows the user to build out platforms and patterns of blocks and cut down time on building.
 The wand produces a preview of glowing blocks that when the wand is right-clicked will place the blocks and remove them from your inventory.
 
-Unlike the original builders wand, these have a max durability. 1 use of the wand takes 1 durability, and follows a similar damage formula when unbreaking is applied to the item.
+Unlike the original builder's wand, these have a max durability. 1 use of the wand takes 1 durability, and follows a similar damage formula when unbreaking is applied to the item.
 
 ### Known Limitations
+
 The following blocks are banned from being used with the wand
+
 * Chests
 * Trapped Chests
 * Doors
@@ -24,58 +27,88 @@ The following blocks are banned from being used with the wand
 * Skulls
 * All Slimefun blocks
 * All MoFood™ blocks
+
 ### Wand Limits per level
-#### Base Wand
-* Glass block outline
-* White glow
-* 32 Block limit
-* 100 Base durability
-#### Tier 2 Wand
-* Glass block outline
-* Selectable color glow
-* 64 Block limit
-* 500 Base durability
-#### Tier 3 Wand
-* Custom block outline
-* Custom hex color glow
-* 160 Block limit
-* 1000 Base durability
 
-### Obtaining
+| Tier          | Outline            | Outline                                              | Block Limit | Durability           |
+| ------------- | ------------------ | ---------------------------------------------------- | ----------- | -------------------- |
+| Tier I (base) | Glass Block        | White Glow                                           | 32 block    | 100 Base Durability  |
+| Tier II       | Glass Block        | Selectable Glow                                      | 64 block    | 500 Base Durability  |
+| Tier III      | Customizable Block | Customizable Glow [hex](https://htmlcolorcodes.com/) | 160 block   | 1000 Base Durability |
 
-#### Tier 1
+### Obtaining Builder's Wand
 
-The base builders wand is obtained via crafting using diverse items obtained from around various dimensions.
+#### A Peculiar Device (base) - Tier I
 
-You must obtain a copy of the scroll: *The Beginning of Creativity*
+The base builder's wand is obtained via crafting using diverse items obtained from around various dimensions. Here are the ingredients you need to make one:
 
-You can find this item by venturing out and looting bastions and blacksmiths' chest within villages.
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_recipe_1.png)
 
-The loot rate for bastions is ~35%, and blacksmith chests are 100%.
+* Glass Bottle (Empty)
+* Water Bucket
+* *The Beginning of Creativity*
+* Dragon Age
+* Mace
+* Heart of the Sea
+* Trident
+* Lava Bucket
+* Dirt
 
-<table>
-    <tr>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/GLASS_BOTTLE.png?raw=true" title="Glass Bottle" alt="Glass Bottle" width="64"/></td>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/WATER_BUCKET.png?raw=true" title="Water Bucket" alt="Water Bucket" width="64"/></td>
-        <td>![image](../assets/img/plugins/CavernItems/BuildersWand/wand_1_blueprint.png "The Beginning of Creativity")</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/DRAGON_HEAD.png?raw=true" title="Dragon Head" alt="Dragon Head" width="64" /></td>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/MACE.png?raw=true" title="Mace" alt="Mace" width="64" /></td>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/HEART_OF_THE_SEA.png?raw=true" title="Heart of The Sea" alt="Heart of The Sea" width="64" /></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/TRIDENT.png?raw=true" title="Trident" alt="Trident" width="64" /></td>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/LAVA_BUCKET.png?raw=true" title="Lava Bucket" alt="Lava Bucket" width="64" /></td>
-        <td><img src="https://github.com/Owen1212055/mc-assets/blob/main/item-assets/DIRT.png?raw=true" title="Dirt Block" alt="Dirt Block" width="64" /></td>
-    </tr>
-</table>
+To obtain **The Beginning of Creativity** You can loot the following structure:
+
+| Source                                                       | Percentage |
+| ------------------------------------------------------------ | ---------- |
+| [Village Blacksmith Chest](https://minecraft.wiki/w/Village) | 100%       |
+| [Bastion](https://minecraft.wiki/w/Bastion)                  | 35%        |
+
+#### Suspicious Placement Wand - Tier II
+
+The tier 2 builder's wand is obtained via crafting using diverse items obtained from around various dimensions. Here are the ingredients you need to make one:
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_recipe_2.png)
+
+* Echosium Isotope
+* Beacon
+* Upgraded Explosive Pickaxe (Netherite)
+* Soul Campfire
+* Campfire
+* Paxel (Netherite)
+* End Crystal
+* *A Hurdle of Greatness*
+* A Peculiar Device (Tier I Builder's Wand/Base)
+
+To obtain **A Hurdle of Greatness** You can loot the following structure:
+
+| Source                                                     | Percentage |
+| ---------------------------------------------------------- | ---------- |
+| [Rare Trial Rward](https://minecraft.wiki/w/Trial_Chamber) | 35%        |
+| [End City Treasure](https://minecraft.wiki/w/End_City)     | 35%        |
+
+#### True Builder's Wand - Tier III
+
+The tier 3 builder's wand is obtained via crafting using music disc. Here are the ingredients you need to make one:
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_recipe_3.png)
+
+* 4 Any of the Music Discs
+* Music Disc 5
+* Music Disc Lava Chicken
+* Music Disc Pigstep
+* *The Sound of Music*
+* Suspicious Placement Wand (Tier II Builder's Wand)
+
+To obtain **The Sound of Music** You can loot the following structure:
+
+| Source                                                         | Percentage |
+| -------------------------------------------------------------- | ---------- |
+| [Wandering Trader](https://minecraft.wiki/w/Wandering_Trader)  | 100%       |
+| [Suspicious Sand/Gravel](https://minecraft.wiki/w/Archaeology) | 10%        |
 
 ### F.A.Q
 
 > What about the old wand that people purchased from admin shop?
 
-*When that wand is Shift+Right Clicked, it will auto convert to a new Level 2 Unbreaking V builders wand.*
+*When that wand is Shift+Right Clicked, it will auto convert to a new Level 2 Unbreaking V builder's wand.*
 
 > Where is the information about the other wands?
 
