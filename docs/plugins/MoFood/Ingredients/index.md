@@ -3,8 +3,8 @@ title: MoFood
 slug: /plugins/mofood/ingredients
 ---
 
-import McTexture from '@site/src/components/McTexture'
-import InvIcon from '@site/src/components/InvIcon'
+<!-- import McTexture from '@site/src/components/McTexture'
+import InvIcon from '@site/src/components/InvIcon' -->
 
 # MoFood
 Augment is another addition to pyrofishing that makes fishing a lot more fun. Augment is like an enchant for your rod. But unlike regular enchants, you dont use anvils and enchantment table to create or transfer them.

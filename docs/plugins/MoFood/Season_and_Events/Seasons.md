@@ -15,7 +15,7 @@ You may notice that some of your crops do not grow during certain periods and th
 
 <div style={{ maxWidth: 500, margin: '1rem auto' }}>
 
-![](../../assets/img/plugins/MoFood/season_crops.png)
+![](../../../assets/img/plugins/MoFood/season_crops.png)
 
 </div>
 
@@ -23,6 +23,6 @@ When entering a new season, there will be a broadcast message in chat that tells
 
 <div style={{ maxWidth: 650, margin: '1rem auto' }}>
 
-![](../../assets/img/plugins/MoFood/season_chat_message.png)
+![](../../../assets/img/plugins/MoFood/season_chat_message.png)
 
 </div>

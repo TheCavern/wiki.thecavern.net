@@ -20,6 +20,9 @@ You can spend noms in almost any area of the plugin. It's best if you  start col
 - Purchasing items from the Traveling Merchant
 
 ## Noms Pouch
+If you played MoFood for a while, you might encountered something called "Noms Pouch". Noms pouch is like a loot box for noms. You cant craft it yourself, but a lot of sources use noms pouch as a reward.
+
+If you open a noms pouch, you get a randomized amount of noms. There are diffrent sizes of noms pouch, each of them have diffrent min and max value for the amount of noms you randomly get. To open noms pouch, just right click the item, and it will do an opening animation.
 
 :::warning[TO-DO]
 explain nom pouch, how to get it, and list their sizes

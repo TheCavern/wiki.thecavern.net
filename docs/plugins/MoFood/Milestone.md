@@ -9,10 +9,12 @@ Milestone is a feature that rewards the player after completing a certain number
 :::note[Milestone Menu Navigation]
 `/food` -> `Player Profile` -> `Milestone`
 :::
+<div style={{ maxWidth: 650, margin: '1rem auto' }}>
 
 ![](../../assets/img/plugins/MoFood/milestone_menu.png)
-
 ![](../../assets/img/plugins/MoFood/milestone_crop.png)
+
+</div>
 
 ## Farming Milestone
 For each crop that you can plant in MoFood, there is a milestone for that crop. In this category, milestone are based on how many of that crop have you harvested.
@@ -46,9 +48,10 @@ For Tree Milestone, for each bonsai in MoFood, there will be a corresponding mil
 ## Cooking Milestone
 Just like the previous two, for each cooking ingredient there is, there will be a corresponding milestone tied to it. This milestone category is based on how many of that recipe that you cooked.
 
-:::warning[TO-DO - QUESTION]
-confirm if events/limited time food recipes have milestone
+:::info
+Limited time food (ones that are only active on events) does not have a ,milestone, only regular foods do.
 :::
+
 |Level|Count|Money|Noms|
 |-|-|-|-|
 |I|10|-|-|
