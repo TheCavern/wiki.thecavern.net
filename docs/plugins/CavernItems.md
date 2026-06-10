@@ -24,14 +24,18 @@ Unlike the original builder's wand, these have a max durability. 1 use of the wa
 * The wand searches for connected blocks of the same type along the face you're looking at (e.g. aiming at the top of a block searches the surrounding floor), up to your wand's block limit.
 * `Right-click` to place the blocks shown in the preview. The required blocks are removed from your inventory - if you don't have enough, nothing is placed, and you'll be told what's missing.
 * Slabs and other directional blocks (stairs, logs, etc.) are placed matching the orientation of the block you're aiming at.
-* In **Creative mode**, placing blocks doesn't consume your inventory or the wand's durability.
-* `Shift + Right-click` opens the wand's configuration menu, letting you customize the preview based on your wand's tier (see the table below).
 
-![test](../assets/img/plugins/CavernItems/BuildersWand/build-wand-gif-1.gif)
+* 
 
-![test](../assets/img/plugins/CavernItems/BuildersWand/build-wand-gif-2.gif)
+:::info
+`Shift + Right-click` opens the wand's configuration menu, letting you customize the preview based on your wand's tier (see the [limits table](#wand-limits-per-level)).
+:::
 
-![test](../assets/img/plugins/CavernItems/BuildersWand/build-wand-gif-3.gif)
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_1.gif)
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_2.gif)
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_3.gif)
 
 ### Known Limitations
 
@@ -121,6 +125,32 @@ To obtain **The Sound of Music** You can loot the following structure:
 | [Wandering Trader](https://minecraft.wiki/w/Wandering_Trader)  | 100%       |
 | [Suspicious Sand/Gravel](https://minecraft.wiki/w/Archaeology) | 10%        |
 
+### Repairing
+
+To repair a damaged Builder's Wand, place it in an anvil alongside an **Architect's Ember**. This fully restores the wand's durability, with an XP level cost that scales with the wand's tier.
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_repair.png)
+
+| Tier     | XP Level Cost |
+| -------- | ------------- |
+| Tier I   | 20            |
+| Tier II  | 40            |
+| Tier III | 60            |
+
+:::info
+The repair option only appears once the wand has taken damage.
+:::
+
+#### Architect's Ember
+
+Architect's Embers are crafted using the following ingredients:
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/architects_ember_recipe.png)
+
+* 4 Echo Shards
+* 4 Respawn Anchors
+* Nether Star
+
 ### F.A.Q
 
 > What about the old wand that people purchased from admin shop?
@@ -137,7 +167,7 @@ To obtain **The Sound of Music** You can loot the following structure:
 
 ## Shrinking Device (Size-Inator)
 
-![test](../assets/img/plugins/CavernItems/BuildersWand/sizeinator.png)
+![test](../assets/img/plugins/CavernItems/ShrinkingDevice/sizeinator_item.png)
 
 The Shrinking Device, also known as the **Size-Inator**, is a special item that lets you change your player size on the fly. You can configure the size of it by opening the menu using `Shift+Right-click` and pick the size you'd like to be, and Right-clicking toggles between your normal size and the selected size.
 
