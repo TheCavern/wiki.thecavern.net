@@ -20,12 +20,10 @@ Unlike the original builder's wand, these have a max durability. 1 use of the wa
 
 ### How It Works
 
-* Hold the wand in your main hand and aim at a block, if you're within 10 blocks and the block is a valid type, a preview of glowing blocks appears showing every spot the wand will place a matching block.
+* Hold the wand in your main hand and aim at a block, a preview of glowing blocks appears showing every spot the wand will place a matching block (wand range is about 10 blocks).
 * The wand searches for connected blocks of the same type along the face you're looking at (e.g. aiming at the top of a block searches the surrounding floor), up to your wand's block limit.
-* `Right-click` to place the blocks shown in the preview. The required blocks are removed from your inventory - if you don't have enough, nothing is placed, and you'll be told what's missing.
+* `Right-click` to place the blocks shown in the preview. The required blocks are removed from your inventory (assuming you have the required blocks), if not, you'll be told what's missing.
 * Slabs and other directional blocks (stairs, logs, etc.) are placed matching the orientation of the block you're aiming at.
-
-* 
 
 :::info
 `Shift + Right-click` opens the wand's configuration menu, letting you customize the preview based on your wand's tier (see the [limits table](#wand-limits-per-level)).
