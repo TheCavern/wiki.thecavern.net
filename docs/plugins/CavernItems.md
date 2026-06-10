@@ -157,7 +157,11 @@ Like the builder's wand, the Size-Inator has a max durability, takes 1 damage pe
 Shrinking and growing can be restricted by region:
 
 * If WorldGuard does not allow shrinking in your current area, you'll be told you aren't allowed to shrink there.
-* On Towny worlds, plot/town settings can also block resizing - if resizing isn't permitted in that area, you'll get an error and the device won't activate.
+* On Towny worlds, plot/town settings can also block resizing (you can use `/t toggle shrinking on/off` or `/plot toggle shrinking on/off`) if resizing isn't permitted in that area, you'll get an error and the device won't activate.
+
+:::warning
+If you enter a town that disallow shrinking, you will be reverted into your normal size.
+:::
 
 ### Repairing the Size-Inator
 
