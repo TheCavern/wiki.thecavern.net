@@ -14,7 +14,26 @@ keywords:
 The builder's wand is a special item that allows the user to build out platforms and patterns of blocks and cut down time on building.
 The wand produces a preview of glowing blocks that when the wand is right-clicked will place the blocks and remove them from your inventory.
 
+:::info
 Unlike the original builder's wand, these have a max durability. 1 use of the wand takes 1 durability, and follows a similar damage formula when unbreaking is applied to the item.
+:::
+
+### How It Works
+
+* Hold the wand in your main hand and aim at a block, a preview of glowing blocks appears showing every spot the wand will place a matching block (wand range is about 10 blocks).
+* The wand searches for connected blocks of the same type along the face you're looking at (e.g. aiming at the top of a block searches the surrounding floor), up to your wand's block limit.
+* `Right-click` to place the blocks shown in the preview. The required blocks are removed from your inventory (assuming you have the required blocks), if not, you'll be told what's missing.
+* Slabs and other directional blocks (stairs, logs, etc.) are placed matching the orientation of the block you're aiming at.
+
+:::info
+`Shift + Right-click` opens the wand's configuration menu, letting you customize the preview based on your wand's tier (see the [limits table](#wand-limits-per-level)).
+:::
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_1.gif)
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_2.gif)
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_gif_3.gif)
 
 ### Known Limitations
 
@@ -104,6 +123,32 @@ To obtain **The Sound of Music** You can loot the following structure:
 | [Wandering Trader](https://minecraft.wiki/w/Wandering_Trader)  | 100%       |
 | [Suspicious Sand/Gravel](https://minecraft.wiki/w/Archaeology) | 10%        |
 
+### Repairing
+
+To repair a damaged Builder's Wand, place it in an anvil alongside an **Architect's Ember**. This fully restores the wand's durability, with an XP level cost that scales with the wand's tier.
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/wand_repair.png)
+
+| Tier     | XP Level Cost |
+| -------- | ------------- |
+| Tier I   | 20            |
+| Tier II  | 40            |
+| Tier III | 60            |
+
+:::info
+The repair option only appears once the wand has taken damage.
+:::
+
+#### Architect's Ember
+
+Architect's Embers are crafted using the following ingredients:
+
+![test](../assets/img/plugins/CavernItems/BuildersWand/architects_ember_recipe.png)
+
+* 4 Echo Shards
+* 4 Respawn Anchors
+* Nether Star
+
 ### F.A.Q
 
 > What about the old wand that people purchased from admin shop?
@@ -117,3 +162,42 @@ To obtain **The Sound of Music** You can loot the following structure:
 > Is it supposed to be a stick?
 
 *We're waiting for the model to be fully complete.* **#JustDragonThings**
+
+## Shrinking Device (Size-Inator)
+
+![test](../assets/img/plugins/CavernItems/ShrinkingDevice/sizeinator_item.png)
+
+The Shrinking Device, also known as the **Size-Inator**, is a special item that lets you change your player size on the fly. You can configure the size of it by opening the menu using `Shift+Right-click` and pick the size you'd like to be, and Right-clicking toggles between your normal size and the selected size.
+
+:::info
+Like the builder's wand, the Size-Inator has a max durability, takes 1 damage per use following the same unbreaking-based damage formula, and can be repaired in a furnace.
+:::
+
+### How It Works
+
+* `Shift + Right-click` opens the Size-Inator menu, where you can choose the size you want to shrink or grow to.
+* `Right-click`:
+  * If you're currently shrunk/grown, this returns you to your normal size.
+  * Otherwise, it resizes you to the size selected in the menu.
+
+### Region Restrictions
+
+Shrinking and growing can be restricted by region:
+
+* If WorldGuard does not allow shrinking in your current area, you'll be told you aren't allowed to shrink there.
+* On Towny worlds, plot/town settings can also block resizing (you can use `/t toggle shrinking on/off` or `/plot toggle shrinking on/off`) if resizing isn't permitted in that area, you'll get an error and the device won't activate.
+
+:::warning
+If you enter a town that disallow shrinking, you will be reverted into your normal size.
+:::
+
+### Repairing the Size-Inator
+
+The Size-Inator can be repaired in a furnace.... (duh). Place it in the smelting slot along with one of the fuels below. Each item of fuel consumed restores the listed amount of durability.
+
+| Fuel            | Durability Restored |
+| --------------- | ------------------- |
+| Coal / Charcoal | 1                   |
+| Blaze Rod       | 2                   |
+| Coal Block      | 10                  |
+| Lava Bucket     | 12                  |
