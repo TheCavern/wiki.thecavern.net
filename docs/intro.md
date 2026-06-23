@@ -22,7 +22,6 @@ keywords:
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F2%2Fmc.thecavern.net&query=%24.players.online&style=for-the-badge&label=ingame&color=lightgray" style={{ padding: '0 0.1rem' }}></img>
 </div>
 
-
 <div align="center">
 <img src="https://img.shields.io/discord/702144279807656038?logo=discord&label=Discord&color=5865F2&link=https%3A%2F%2Fdiscord.thecavern.net%2F&style=for-the-badge" style={{ padding: '0 0.1rem' }}></img>
 </div>
@@ -32,15 +31,14 @@ keywords:
 
 Welcome to the official Cavern Wiki!
 
-
 TheCavern is a family-friendly, survival multiplayer (SMP) Minecraft server compatible with both Bedrock and Java edition. In this immersive world, you can explore dungeons, engage with a dynamic towny system, and participate in a thriving player-based economy. Enhanced by a suite of plugins, including slimefun, pyrofishing, pyromining, and MoFood, TheCavern offers a unique twist on traditional gameplay.
 
 At its core, TheCavern fosters a wholesome and welcoming community. With a donation model in place, the server remains balanced and non-competitive, allowing the focus to stay on fun, exploration, and creative collaboration. Join TheCavern and become a part of our vibrant, supportive community where anyone can forge their own epic journey!
-
 
 :::note
 
 This wiki is new, check out the [Contributing](/Contributing) page to help out!
 
-If you want to see upcoming wiki updates goto [here](https://wiki-next.thecavern.net)
+If you want to see upcoming wiki updates, go to the [dev wiki](https://wiki-next.thecavern.net).
+
 :::
