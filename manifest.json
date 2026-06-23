@@ -1,0 +1,16 @@
+{
+  "name": "The Cavern Docs",
+  "short_name": "Cavern Docs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#fa7d10",
+  "description": "The Cavern mc wiki docs for mc.thecavern.net",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ]
+}
