@@ -85,7 +85,7 @@ Quest Points are a secondary currency earned from completing quests. Quest Point
 |Blueprint|100|Lvl 25 Gardening|-|
 |Seed Remover|20|Lvl 25 Gardening|-|
 |Auto Milking Bucket|100|Lvl 25 Cooking|1|
-<!-- |Hoe Augmenter|100|Lvl 25 Gardening|-| -->
+|Hoe Augmenter|100|Lvl 25 Gardening|-| -->
 
 ## Quest Milestone
 Quest Milestones are cumulative progress thresholds for quest completions. Reaching specified milestones grants milestone rewards.
