@@ -3,7 +3,7 @@ title: MoFood
 slug: /plugins/mofood/ingredients
 ---
 
-<!-- import McTexture from '@site/src/components/McTexture'
+<-- import McTexture from '@site/src/components/McTexture'
 import InvIcon from '@site/src/components/InvIcon' -->
 
 # MoFood
