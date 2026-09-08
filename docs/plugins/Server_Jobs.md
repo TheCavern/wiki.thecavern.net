@@ -32,16 +32,16 @@ Below lists the max amount of jobs you can have with each in-game rank.
 ## Available Jobs
 | Job  | Description |
 | ------------- |:-------------:|
-| Weaponsmith    | Grants you money by crafting different weapons and armour, smelting ingots, and reparing tools. |
-| Builder        | Grants you money from placing different blocks. |
-| Crafter        | Grants you money by crafting different items. |
-| Enchanter      | Grants you money by enchanting tools and armour. |
-| Digger         | Grants you money by mining blocks which require a shovel.|
-| Brewer         | Grants you money by brewing potions. |
-| Hunter         | Grants you money by killing **naturally spawned hostile mobs**, and taming certain mobs. |
-| Miner          | Grants you money by mining blocks which require a pickaxe. |
-| Farmer         | Grants you money by farming crops, placing certain environmental blocks, breeding animals, taming mobs, shearing sheep and milking cows. |
-| Fisherman      | Grants you money by catching fish. |
+| Weaponsmith    | Craft weapons and armour, smelt ingots, and repair tools. |
+| Builder        | Place blocks. |
+| Crafter        | Craft items. |
+| Enchanter      | Enchant tools and armour. |
+| Digger         | Mine blocks which require a shovel. |
+| Brewer         | Brew potions. |
+| Hunter         | Kill **naturally spawned hostile mobs**, and tame certain mobs. |
+| Miner          | Mine blocks which require a pickaxe. |
+| Farmer         | Farm crops, place certain environmental blocks, breed animals, tame mobs, shear sheep and milk cows. |
+| Fisherman      | Catch fish. |
 
 ------
 
