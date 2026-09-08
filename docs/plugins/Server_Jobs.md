@@ -20,6 +20,7 @@ The more jobs you join, the less money you will make from each job. Additionally
 Below lists the max amount of jobs you can have with each in-game rank. 
 | Rank  | Max Jobs |
 | ------------- |:-------------:|
+| Newcomer   | 1 |
 | Citizen    | 1 |
 | Merchant   | 1 |
 | Clerk      | 2 |
