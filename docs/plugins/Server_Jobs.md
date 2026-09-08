@@ -7,6 +7,12 @@ To join a job, run the command `/jobs join [job name]`. To view the list of diff
 You can see what items pay you, and how much they pay, by using `/jobs info [job name]`.
 If you wish to leave your current job, run the command `/jobs leave [job name]`. 
 
+:::info
+
+When you leave a job, you will lose **50% of the levels** you have gained for that example. For example, if you are a level 100 Miner, you will lose 50 levels.
+
+:::
+
 > [!**INFO**]  
 > When you leave a job, you will lose **half of the levels** you have gained for that job.
 
