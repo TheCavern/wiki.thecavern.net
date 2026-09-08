@@ -23,6 +23,7 @@ Once you are at Merchant rank, do the following:
 
 | Rank  | Max Listings |
 | ------------- |:-------------:|
+| Newcomer   | 0 | 
 | Citizen    | 0 |
 | Merchant   | 2 |
 | Clerk      | 2 |
