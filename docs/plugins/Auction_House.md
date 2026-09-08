@@ -19,7 +19,7 @@ Once you are at Merchant rank, do the following:
 3. Click the item you wish to remove.
 
 
-## Max Chest Shops Per Rank
+## Max Listings Per Rank
 
 | Rank  | Max Listings |
 | ------------- |:-------------:|
