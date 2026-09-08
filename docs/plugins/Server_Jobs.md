@@ -1,6 +1,6 @@
 # Server Jobs
 
-![Server Jobs Menu](../assets/img/plugins/Server_Jobs/jobs_menu.png)
+![Server Jobs Menu](../assets/img/plugins/ServerJobs/jobs_menu.png)
 
 Jobs are an easy way to make in-game money, simply by doing normal activities such as placing blocks and farming crops.
 There are 10 total jobs you can pick from, and depending on your rank, you can have up to **6** jobs at a time.
