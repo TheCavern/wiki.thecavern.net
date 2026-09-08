@@ -52,7 +52,7 @@ When someone purchases your item, it is stored in your auction house wallet.
 To claim this money, run `/ah claim`. You will also be given a notification when you join if someone has bought one of your items.
 
 
-## Recovering Expire Items
+## Recovering Expired Items
 Items are listed on the auction house for **3 days** before they are taken down.
 You then have **14 days** to recover the item, before it is gone forever.
 
