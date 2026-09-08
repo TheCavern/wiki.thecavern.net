@@ -2,14 +2,14 @@
 
 On our server, we have chat and player cosmetics called Tags and Titles. Tags are icons which appear next to your name in chat and your name in 3rd person. Titles appear under your name in 3rd person.
 
-![Tags and Titles](../assets/img/plugins/Cosmetics/tags_and_titles_menu.png)
-
 ## Obtaining Tags and Titles
 There are numerous ways you can obtain tags and titles, each ranging in difficulty.
 
-### Item Collectors
+### Item Collector
 The most common way to obtain a tag or title is through the Item Collector. Each month, a new set of collector items are added to the Vote Crate.
 If you collect all 9 for that month, you can redeem the items in `/itemcollector (/ic)`. You can also redeem older months by purchasing the items from players.
+
+![Item Collector](../assets/img/plugins/Cosmetics/item_collector.png)
 
 ### Rare Crate
 In the rare crate, there are 3 exclusive Tags you can obtain. The Skull, Anchor, and YinYang. These tags have a **2.778%** chance of being obtained from the rare crate. You can also buy these from
