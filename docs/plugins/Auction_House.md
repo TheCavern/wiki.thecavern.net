@@ -67,4 +67,3 @@ You then have **14 days** to recover the item, before it is gone forever.
 | /ah | Open the auction house |
 | /ah claim | Claim money made from the auction house |
 | /ah history | View your sales history |
-| /qs staff del [username] | Remove a player as shop staff |
