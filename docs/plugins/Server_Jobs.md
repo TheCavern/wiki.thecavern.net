@@ -13,9 +13,6 @@ When you leave a job, you will lose **50% of the levels** you have gained for th
 
 :::
 
-> [!**INFO**]  
-> When you leave a job, you will lose **half of the levels** you have gained for that job.
-
 The more jobs you join, the less money you will make from each job. Additionally, the higher your level is, the more money you will make. All jobs have a max level of **200**.
 
 Below lists the max amount of jobs you can have with each in-game rank. 
