@@ -24,7 +24,7 @@ Tags and Titles are also obtainable from events. Depending on the event, you may
 Some events have exclusive tags and titles only obtainable from that specific event.
 
 ### Donating
-By becoming a server, you are able to unlock some exclusive titles and tags.
+By purchasing a rank from our store, you are able to unlock an exclusive tag. You will also be given an exclusive title for any purchase you make.
 
 ### Login Rewards
 Occasionally, tags and titles are available through login rewards. To redeem these, simply login!
