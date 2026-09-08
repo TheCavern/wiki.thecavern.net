@@ -39,12 +39,16 @@ To equip a tag:
 2. Find the tag you want to equip
 3. Left click the tag
 
+![Server Tags](../assets/img/plugins/Cosmetics/server_tags.png)
+
 To equip a title:
 
 1. Run `/titles`
 2. Find the title you want to equip
 3. Left click the title
 **Important:** Make sure you have titles enabled by clicking the glass pane in the bottom right.
+
+![Server Titles](../assets/img/plugins/Cosmetics/server_titles.png)
 
 To view all the tags and titles you currently own, use the following:
 
