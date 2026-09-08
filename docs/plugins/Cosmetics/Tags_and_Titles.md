@@ -9,7 +9,7 @@ There are numerous ways you can obtain tags and titles, each ranging in difficul
 The most common way to obtain a tag or title is through the Item Collector. Each month, a new set of collector items are added to the Vote Crate.
 If you collect all 9 for that month, you can redeem the items in `/itemcollector (/ic)`. You can also redeem older months by purchasing the items from players.
 
-![Item Collector](../assets/img/plugins/Cosmetics/item_collector.png)
+![Item Collector](../../assets/img/plugins/Cosmetics/item_collector.png)
 
 ### Rare Crate
 In the rare crate, there are 3 exclusive Tags you can obtain. The Skull, Anchor, and YinYang. These tags have a **2.778%** chance of being obtained from the rare crate. You can also buy these from
@@ -39,7 +39,7 @@ To equip a tag:
 2. Find the tag you want to equip
 3. Left click the tag
 
-![Server Tags](../assets/img/plugins/Cosmetics/server_tags.png)
+![Server Tags](../../assets/img/plugins/Cosmetics/server_tags.png)
 
 To equip a title:
 
@@ -48,7 +48,7 @@ To equip a title:
 3. Left click the title
 **Important:** Make sure you have titles enabled by clicking the glass pane in the bottom right.
 
-![Server Titles](../assets/img/plugins/Cosmetics/server_titles.png)
+![Server Titles](../../assets/img/plugins/Cosmetics/server_titles.png)
 
 To view all the tags and titles you currently own, use the following:
 
