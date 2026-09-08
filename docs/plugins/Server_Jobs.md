@@ -11,7 +11,7 @@ If you wish to leave your current job, run the command `/jobs leave [job name]`.
 
 :::warning
 
-When you leave a job, you will lose **50% of the levels** you have gained for that example. For example, if you are a level 100 Miner, you will lose 50 levels.
+When you leave a job, you will lose **50% of the levels** you have gained for that job. For example, if you are a level 100 Miner, you will lose 50 levels.
 
 :::
 
