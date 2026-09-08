@@ -2,6 +2,8 @@
 
 The auction house is a place players can list items for sale. The amount of items you can list at a given time depends on your rank.
 
+![Tags and Titles](../assets/img/plugins/AuctionHouse/auction_house.png)
+
 ## Listing an Item
 To list an item you first need to have the **Merchant Rank**. This can be obtained by doing `/rankup` twice, for a total of **$55,000**.
 
