@@ -25,6 +25,7 @@ To create a buying shop, use the steps above to create a sell shop, then right c
 
 | Rank  | Max Shops |
 | ------------- |:-------------:|
+| Newcomer   | 0 |
 | Citizen    | 0 |
 | Merchant   | 12 |
 | Clerk      | 12 |
