@@ -1,3 +1,13 @@
+---
+title: Server Jobs
+slug: /plugins/server_jobs
+description: Learn about the jobs available
+keywords:
+  - job
+  - money
+  - activities
+---
+
 # Server Jobs
 
 ![Server Jobs Menu](../assets/img/plugins/ServerJobs/jobs_menu.png)
