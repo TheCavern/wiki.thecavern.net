@@ -1,3 +1,5 @@
+![image](../assets/img/plugins/My_Pet/my_pet.png)
+
 # MyPet
 
 MyPet is a plugin which allows you to capture mobs and make them your pet. These pets can be given special skills such as the ability to ride and help in pvp. It is also very useful when moving villagers.
