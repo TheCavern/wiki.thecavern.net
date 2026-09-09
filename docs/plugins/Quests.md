@@ -1,3 +1,13 @@
+---
+title: Quests
+slug: /plugins/quests
+description: Learn about server quests
+keywords:
+  - quest
+  - objective
+  - reward
+---
+
 # Quests
 
 Quests are different objectives you need to complete, which will reward you with money, and EXP. This is one of the best ways to make money when starting out.
