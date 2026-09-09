@@ -1,3 +1,13 @@
+---
+title: Tags and Titles
+slug: /plugins/tags_and_titles
+description: Learn about the different Tags and Titles available
+keywords:
+  - tag
+  - title
+  - cosmetic
+---
+
 # Tags and Titles
 
 On our server, we have chat and player cosmetics called Tags and Titles. Tags are icons which appear next to your name in chat and your name in 3rd person. Titles appear under your name in 3rd person.
