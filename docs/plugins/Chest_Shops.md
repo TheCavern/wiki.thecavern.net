@@ -1,3 +1,14 @@
+---
+title: Chest Shops
+slug: /plugins/chest_shops
+description: Learn how to create and use Chest Shops
+keywords:
+  - shop
+  - selling
+  - buying
+  - money
+---
+
 # Chest Shops
 
 Chest shops are a way players can sell stuff to other players, without needing to be online. Shops can **only** be created on chests. The amount you can make depends on your current rank.
