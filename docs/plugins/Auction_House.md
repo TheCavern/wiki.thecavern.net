@@ -1,3 +1,15 @@
+---
+title: Auction House
+slug: /plugins/auction_house
+description: Learn how to use the Auction House
+keywords:
+  - ah
+  - selling
+  - auction
+  - house
+---
+
+
 # Auction House
 
 The auction house is a place players can list items for sale. The amount of items you can list at a given time depends on your rank.
