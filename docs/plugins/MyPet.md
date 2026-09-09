@@ -1,4 +1,4 @@
-![image](../assets/img/plugins/My_Pet/my_pet.png)
+![image](../assets/img/plugins/MyPet/my_pet.png)
 
 # MyPet
 
