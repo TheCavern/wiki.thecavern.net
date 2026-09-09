@@ -1,3 +1,14 @@
+---
+title: MyPet
+slug: /plugins/mypet
+description: Learn how to obtain your own pet
+keywords:
+  - pet
+  - capture
+  - mob
+  - skills
+---
+
 ![image](../assets/img/plugins/MyPet/my_pet.png)
 
 # MyPet
