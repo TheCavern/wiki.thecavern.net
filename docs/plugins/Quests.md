@@ -5,8 +5,7 @@ The amount of active quests you can have at any given time depend on your rank.
 
 There are a total of **16** categories, and **1289** total quests, each ranging in difficulty. Most quests have multiple tiers, with the quest requirement and reward increasing with each tier.
 
-![quest-menu](image-1.png)
-*/quest menu*
+![Server Jobs Menu](../assets/img/plugins/Quests/quest_menu.png)
 
 ## Comands Overview
 | Command | Description | 
