@@ -27,7 +27,7 @@ To apply an augment to a fishing rod, first we need to open `/fish augment`. In 
 - Click the lime stained glass pane <McTexture item="block/lime_stained_glass" width="16px" /> named `Confirm Augment`.
 
 ## Removing/Transfering Augment
-If  you want to transfer an augment to another rod or to sell, you have to remove it first. You cant remove a single augment from the rod, you can only remove all of it. The only penalty for removing augments is that it cost you 50k [entropy](/plugins/pyrofishing/entropy). To remove an augment, follow this steps:
+If  you want to transfer an augment to another rod or to sell, you have to remove it first. You cant remove a single augment from the rod, you can only remove all of it. The only penalty for removing augments is that it cost you 50k [entropy](/plugins/pyrofishing). To remove an augment, follow this steps:
 
 - Make sure your inventory can hold all the augments once its removed
 - Open `/fish augment`

@@ -17,7 +17,7 @@ Currently, there are 6 type of mastery in mofood. Each of the mastery have its o
 - [Gardening](/plugins/mofood/gardening)
 - [Forestry](/plugins/mofood/forestry)
 - [Brewing](/plugins/mofood/brewing)
-- [Fishing](/plugins/mofood/fishing)
+- Fishing
 - [Ranching](/plugins/mofood/ranching)
 
 :::note[Mastery Menu Navigation]
